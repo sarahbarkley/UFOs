@@ -11,4 +11,5 @@ With this project, we aim to provide a more in-depth analysis of UFO sightings b
 A user looking for a particular time, place, or shape type of UFO sightings can now update one or many filters in real time on our web page.
 
 ### Before Filtering
-![](../static/images/unfiltered.png)
+
+![](/static/images/unfiltered.png)
