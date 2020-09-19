@@ -12,4 +12,12 @@ A user looking for a particular time, place, or shape type of UFO sightings can 
 
 ### Before Filtering
 
-![](/static/images/unfiltered.png)
+![](/static/images/unfiltered.PNG)
+
+### After Filtering
+
+![](/static/images/filtered.PNG)
+
+## Summary
+
+One drawback to this design is that it only allows for exact matches. In the future, we could make it to also filter by partial matches. I would also suggest that we add filters for all remaining data fields.
